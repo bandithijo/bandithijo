@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![](https://github-readme-stats.vercel.app/api?username=bandithijo&title_color=333&text_color=777&show_icons=true&icon_color=333&hide_border=false)](https://github.com/bandithijo)
+<!-- [![](https://github-readme-stats.vercel.app/api?username=bandithijo&title_color=333&text_color=777&show_icons=true&icon_color=333&hide_border=false)](https://github.com/bandithijo) -->
 
-<img align="center" alt="banner" width="100%" src="https://raw.githubusercontent.com/bandithijo/bandithijo/master/bandithijo.github.io.png" />
+<a href="https://bandithijo.github.io"><img alt="banner" width="100%" src="https://raw.githubusercontent.com/bandithijo/bandithijo/master/bandithijo.github.io.png" /></a>
 
 <!-- ![](bandithijo.github.io.png) -->
