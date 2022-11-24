@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 <a href="https://bandithijo.github.io"><img alt="banner" width="100%" src="https://raw.githubusercontent.com/bandithijo/bandithijo/master/bandithijo.github.io.png" /></a>
 
 <!-- ![](bandithijo.github.io.png) -->
+
+[![wakatime](https://wakatime.com/badge/user/1e45775c-2d2f-46db-9f24-f0724d2323ff.svg)](https://wakatime.com/@1e45775c-2d2f-46db-9f24-f0724d2323ff)
