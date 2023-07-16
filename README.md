@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 [![wakatime](https://wakatime.com/badge/user/1e45775c-2d2f-46db-9f24-f0724d2323ff.svg)](https://wakatime.com/@1e45775c-2d2f-46db-9f24-f0724d2323ff)
 
-[![committers.top badge](https://user-badge.committers.top/indonesia/USERNAME.svg)](https://user-badge.committers.top/indonesia/USERNAME)
+[![committers.top badge](https://user-badge.committers.top/indonesia/bandthijo.svg)](https://user-badge.committers.top/indonesia/bandithijo)
 
 <a href="https://bandithijo.dev"><img alt="banner" width="100%" src="https://d33wubrfki0l68.cloudfront.net/33dfa7c95669d9891f4d8be3a3100ae506b8be5f/5bcb2/assets/img/banner/contact.png" /></a>
