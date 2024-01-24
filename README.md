@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My journey kicks off from reading textbooks as a former Medical Student to digging bugs as a Software Engineer – a delightful rollercoaster of career twists. Embracing failure with the grace of a Cat avoiding water, I've seamlessly transitioned from Stethoscope to Keyboard. Armed with ability for learning and adapting faster than a Heart Beat, I'm on a mission to turn Code into a Product.
+
 <!--
 **bandithijo/bandithijo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
