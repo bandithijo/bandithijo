@@ -1,12 +1,12 @@
 # .github/workflow/monkeytype.yaml
 name: Monkeytype Readme
 
-# on:
+on:
   # Runs if triggered manually through github action console
-  # workflow_dispatch:
-  # schedule:
+  workflow_dispatch:
+  schedule:
     # Runs at 00:00 each sunday
-    # - cron: '0 0 * * 0'
+    - cron: '0 0 * * 0'
 
 jobs:
   update-readme:
