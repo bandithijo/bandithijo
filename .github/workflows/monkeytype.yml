@@ -1,7 +1,7 @@
 # .github/workflow/monkeytype.yaml
 name: Monkeytype Readme
 
-on:
+# on:
   # Runs if triggered manually through github action console
   # workflow_dispatch:
   # schedule:
