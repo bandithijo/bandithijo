@@ -29,4 +29,15 @@ Here are some ideas to get you started:
 
 <a href="https://bandithijo.dev"><img alt="banner" width="100%" src="https://d33wubrfki0l68.cloudfront.net/33dfa7c95669d9891f4d8be3a3100ae506b8be5f/5bcb2/assets/img/banner/contact.png" /></a>
 
-<a rel="me" href="https://ruby.social/@bandithijo"></a>
+<!-- Video Section Start -->
+<div style="width: 100%; margin-top: 2rem; display: flex; justify-content: center;">
+  <video
+    src="https://github.com/bandithijo/bandithijo.github.io/raw/main/assets/images/bumper.mp4"
+    autoplay
+    loop
+    muted
+    playsinline
+    style="width: 100%; max-width: 1200px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.2);"
+  ></video>
+</div>
+<!-- Video Section End -->
