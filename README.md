@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <!-- Video Section Start -->
 <div style="width: 100%; margin-top: 2rem; display: flex; justify-content: center;">
   <video
-    src="https://github.com/bandithijo/bandithijo.github.io/raw/main/assets/images/bumper.mp4"
+    src="https://github.com/bandithijo/bandithijo/raw/refs/heads/master/bumper.mp4"
     autoplay
     loop
     muted
