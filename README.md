@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 
 [![committers.top badge](https://user-badge.committers.top/indonesia/bandithijo.svg)](https://user-badge.committers.top/indonesia/bandithijo)
 
-<a href="https://bandithijo.dev"><img alt="banner" width="100%" src="https://d33wubrfki0l68.cloudfront.net/33dfa7c95669d9891f4d8be3a3100ae506b8be5f/5bcb2/assets/img/banner/contact.png"/></a>
+<!-- <a href="https://bandithijo.dev"><img alt="banner" width="100%" src="https://d33wubrfki0l68.cloudfront.net/33dfa7c95669d9891f4d8be3a3100ae506b8be5f/5bcb2/assets/img/banner/contact.png"/></a> -->
 
 <a href="https://bandithijo.dev"><img alt="banner" width="100%" src="https://raw.githubusercontent.com/bandithijo/bandithijo/refs/heads/master/banner.png"/></a>
